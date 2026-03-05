@@ -1,4 +1,4 @@
-# APK/AAB/build outputs
+﻿# Build outputs
 *.apk
 *.aab
 app/release/
