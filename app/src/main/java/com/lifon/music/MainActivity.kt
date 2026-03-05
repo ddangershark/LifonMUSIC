@@ -394,7 +394,6 @@ fun LifonApp(player: ExoPlayer) {
     var shuffleNext by remember { mutableStateOf<Track?>(null) }
 
     val likedTracks = remember { mutableStateSetOf<Int>() }
-    var likesLoaded by remember { mutableStateOf(false) }
 
 
     LaunchedEffect(Unit) {
