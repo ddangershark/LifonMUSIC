@@ -19,7 +19,7 @@
 
 *by videlsvet and dangershark*
 
-![LifonMUSIC Banner](основ.jpg)
+![LifonMUSIC Banner](base.jpg)
 
 </div>
 
@@ -65,15 +65,15 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 **Главные экраны — Альбом и Дискография**
 
-![Главные экраны](основ.jpg)
+![Главные экраны](base.jpg)
 
 **Онбординг, Регистрация и Профиль**
 
-![Регистрация](регр.jpg)
+![Регистрация](register.jpg)
 
 **Тексты, Dynamic Island и иконка приложения**
 
-![Текст и Dynamic Island](ткстдинмикайленд.jpg)
+![Текст и Dynamic Island](lyrisland.jpg)
 
 </div>
 
@@ -81,9 +81,7 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 ## 📲 Скачать
 
-Скачай последний APK прямо со страницы [**Releases**](../../releases/latest) на GitHub.
-
-Без Google Play. Без сторонних магазинов. Только GitHub.
+[**Releases**](../../releases/latest)
 
 ---
 
@@ -174,9 +172,7 @@ LifonMUSIC supports a native-style Dynamic Island / notification pill on the fol
 
 ## 📲 Download
 
-Download the latest APK directly from the [**Releases**](../../releases/latest) page on GitHub.
-
-No Google Play. No third-party stores. Just GitHub.
+[**Releases**](../../releases/latest)
 
 ---
 
