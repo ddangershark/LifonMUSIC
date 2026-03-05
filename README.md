@@ -105,7 +105,7 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 ---
 ---
 <details>
-  <summary>🇬🇧 English</summary>
+  <summary>**English**</summary>
 <a name="english"></a>
 
 <div align="center">
