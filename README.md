@@ -15,11 +15,11 @@
 
 # 🎵 LifonMUSIC
 
-### Лучшее фан-приложение для слушателей CUPSIZE
+### Фан-приложение для слушателей CUPSIZE
 
 *by videlsvet and dangershark*
 
-![LifonMUSIC Banner](base.jpg)
+![LifonMUSIC Banner](images/base.jpg)
 
 </div>
 
@@ -65,15 +65,15 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 **Главные экраны — Альбом и Дискография**
 
-![Главные экраны](base.jpg)
+![Главные экраны](images/base.jpg)
 
 **Онбординг, Регистрация и Профиль**
 
-![Регистрация](register.jpg)
+![Регистрация](images/register.jpg)
 
 **Тексты, Dynamic Island и иконка приложения**
 
-![Текст и Dynamic Island](lyrisland.jpg)
+![Текст и Dynamic Island](images/lyrisland.jpg)
 
 </div>
 
@@ -97,6 +97,11 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 Сделано с ❤️ командой **videlsvet** и **dangershark**
 
+| Роль | Автор | TikTok |
+|---|---|---|
+| 💻 Разработчик | videlsvet | [@wave66181](https://www.tiktok.com/@wave66181?_r=1&_t=ZS-94DvxyuzLYi) |
+| 💡 Автор идеи | dangershark | [@dangeershark_t.t](https://www.tiktok.com/@dangeershark_t.t?_r=1&_t=ZS-94RK31XtDvQ) |
+
 ---
 ---
 
@@ -106,11 +111,11 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 # 🎵 LifonMUSIC
 
-### The ultimate fan app for CUPSIZE listeners
+### The fan app for CUPSIZE listeners
 
 *by videlsvet and dangershark*
 
-![LifonMUSIC Banner](основ.jpg)
+![LifonMUSIC Banner](images/base.jpg)
 
 </div>
 
@@ -142,8 +147,8 @@ LifonMUSIC supports a native-style Dynamic Island / notification pill on the fol
 | Brand | Firmware |
 |---|---|
 | Tecno | HOS |
-| Xiaomi / Redmi / Poco | HyperOS 3 (Hyper Island) |
-| OnePlus | OxygenOS |
+| Xiaomi / Redmi / Poco | HyperOS 3 |
+| OnePlus | OxygenOS, ColorOS |
 | Oppo | ColorOS |
 | Vivo | OriginOS |
 | Infinix | XOS |
@@ -156,15 +161,15 @@ LifonMUSIC supports a native-style Dynamic Island / notification pill on the fol
 
 **Main screens — Album & Discography**
 
-![Main screens](основ.jpg)
+![Main screens](images/base.jpg)
 
 **Onboarding, Registration & Profile**
 
-![Registration](регр.jpg)
+![Registration](images/register.jpg)
 
 **Lyrics, Dynamic Island & App Icon**
 
-![Lyrics and Dynamic Island](ткстдинмикайленд.jpg)
+![Lyrics and Dynamic Island](images/lyrisland.jpg)
 
 </div>
 
@@ -187,3 +192,8 @@ Follow updates, news, and new releases on our Telegram channel:
 ## 👥 Authors
 
 Made with ❤️ by **videlsvet** and **dangershark**
+
+| Role | Author | TikTok |
+|---|---|---|
+| 💻 Developer | videlsvet | [@wave66181](https://www.tiktok.com/@wave66181?_r=1&_t=ZS-94DvxyuzLYi) |
+| 💡 Idea author | dangershark | [@dangeershark_t.t](https://www.tiktok.com/@dangeershark_t.t?_r=1&_t=ZS-94RK31XtDvQ) |
