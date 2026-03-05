@@ -37,16 +37,16 @@
 
 - 🎧 **Полная дискография CUPSIZE** — все альбомы, все треки, бесплатно
 - 📝 **Тексты песен** — слова к каждому треку, отображаются во время прослушивания
-- ❤️ **Плейлист избранного** — сохраняй любимые треки
+- ❤️ **Избранное** — сохраняй любимые треки
 - 🔍 **Поиск по альбомам** — быстро найди нужное
-- 👤 **Система аккаунтов** — зарегистрируйся и войди, чтобы сохранить избранное
+- 👤 **Система аккаунтов** — зарегистрируйся и войди, для просмотра любимых песен и итогов года
 - 🏝️ **Поддержка Dynamic Island** — информация о воспроизведении на поддерживаемых прошивках
 
 ---
 
 ## 📱 Поддержка Dynamic Island
 
-LifonMUSIC поддерживает нативный Dynamic Island / анимированную пилюлю на следующих Android-прошивках:
+LifonMUSIC поддерживает нативный Dynamic Island / анимированный остров на следующих прошивках:
 
 | Бренд | Прошивка |
 |---|---|
@@ -104,7 +104,7 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 ---
 ---
-
+<details>
 <a name="english"></a>
 
 <div align="center">
@@ -133,9 +133,9 @@ It's built with love for the band's community, bringing together the complete di
 
 - 🎧 **Full CUPSIZE discography** — every album, every track, all free
 - 📝 **Lyrics** — text for every song, displayed while you listen
-- ❤️ **Favorites playlist** — save the tracks you love
+- ❤️ **Favorites** — save the tracks you love
 - 🔍 **Album search** — quickly find what you're looking for
-- 👤 **Account system** — register and log in to sync your favorites
+- 👤 **Account system** — register and log in to view your favorite songs and year-end results
 - 🏝️ **Dynamic Island support** — real-time playback info on supported firmware
 
 ---
@@ -192,6 +192,7 @@ Follow updates, news, and new releases on our Telegram channel:
 ## 👥 Authors
 
 Made with ❤️ by **videlsvet** and **dangershark**
+</details>
 
 | Role | Author | TikTok |
 |---|---|---|
