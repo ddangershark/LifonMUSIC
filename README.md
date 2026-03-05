@@ -51,8 +51,8 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 | Бренд | Прошивка |
 |---|---|
 | Tecno | HOS |
-| Xiaomi / Redmi / Poco | HyperOS 3 (Hyper Island) |
-| OnePlus | OxygenOS |
+| Xiaomi / Redmi / Poco | HyperOS 3 |
+| OnePlus | OxygenOS, ColorOS |
 | Oppo | ColorOS |
 | Vivo | OriginOS |
 | Infinix | XOS |
