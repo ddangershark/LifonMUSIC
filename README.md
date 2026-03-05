@@ -105,6 +105,7 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 ---
 ---
 <details>
+  <summary>🇬🇧 English</summary>
 <a name="english"></a>
 
 <div align="center">
@@ -192,9 +193,10 @@ Follow updates, news, and new releases on our Telegram channel:
 ## 👥 Authors
 
 Made with ❤️ by **videlsvet** and **dangershark**
-</details>
+
 
 | Role | Author | TikTok |
 |---|---|---|
 | 💻 Developer | videlsvet | [@wave66181](https://www.tiktok.com/@wave66181?_r=1&_t=ZS-94DvxyuzLYi) |
 | 💡 Idea author | dangershark | [@dangeershark_t.t](https://www.tiktok.com/@dangeershark_t.t?_r=1&_t=ZS-94RK31XtDvQ) |
+</details>
