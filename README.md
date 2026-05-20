@@ -114,11 +114,11 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 Сделано с ❤️ командой **videlsvet**, **dangershark** и **qyrex**
 
-| Роль | Автор | TikTok |
+| Роль | Автор | Telegram |
 |:---|:---|:---|
-| 💻 Разработчик приложения | videlsvet | [@wave66181](https://www.tiktok.com/@wave66181?_r=1&_t=ZS-94DvxyuzLYi) |
-| 💡 Автор идеи | dangershark | [@dangeershark_t.t](https://www.tiktok.com/@dangeershark_t.t?_r=1&_t=ZS-94RK31XtDvQ) |
-| 🌐 Кодер сайта | qyrex | [@qyrex](https://www.tiktok.com/@qyrex) |
+| 💡 Автор идеи | dangershark | [@dangeershark](https://t.me/dangershark) |
+| 💻 Разработчик приложения | videlsvet | [@videlsvet](https://t.me/videlsvet) |
+| 🌐 Разработчик сайта | qyrex | [@qyrex](https://t.me/qyrex) |
 
 ---
 ---
@@ -228,8 +228,8 @@ Follow updates, news, and new releases on our Telegram channel:
 
 Made with ❤️ by **videlsvet**, **dangershark** and **qyrex**
 
-| Role | Author | TikTok |
+| Роль | Автор | Telegram |
 |:---|:---|:---|
-| 💻 App developer | videlsvet | [@wave66181](https://www.tiktok.com/@wave66181?_r=1&_t=ZS-94DvxyuzLYi) |
-| 💡 Idea author | dangershark | [@dangeershark_t.t](https://www.tiktok.com/@dangeershark_t.t?_r=1&_t=ZS-94RK31XtDvQ) |
-| 🌐 Website developer | qyrex | [@qyrex](https://www.tiktok.com/@qyrex) |
+| 💡 Idea author | dangershark | [@dangeershark](https://t.me/dangershark) |
+| 💻 App Developer | videlsvet | [@videlsvet](https://t.me/videlsvet) |
+| 🌐 Site Developer | qyrex | [@qyrex](https://t.me/qyrex) |
