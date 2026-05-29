@@ -363,6 +363,37 @@ fun LifonApp(player: ExoPlayer) {
             ),
 
             Album(
+                11, "заставь меня плакать", "2026", R.drawable.zmp, listOf(
+                    Track(2001, "семнадцать ножевых", "2:24", R.raw.album11_track1, 11),
+                    Track(2002, "детская травма", "2:07", R.raw.album11_track2, 11),
+                    Track(2003, "вся моя жизнь говно", "1:59", R.raw.album11_track3, 11),
+                    Track(2004, "будка", "2:07", R.raw.album11_track4, 11),
+                    Track(2005, "розовая могила", "1:59", R.raw.album11_track5, 11),
+                    Track(2006, "следак", "2:07", R.raw.album11_track6, 11),
+                    Track(2007, "черновик", "1:59", R.raw.album11_track7, 11),
+                    Track(2008, "ты уебалась головой", "2:07", R.raw.album11_track8, 11),
+                    Track(2009, "первокурсница", "1:59", R.raw.album11_track9, 11),
+                    Track(2010, "ЗППП", "2:07", R.raw.album11_track10, 11),
+                    Track(2011, "станцуй со мной", "1:59", R.raw.album11_track11, 11),
+                    Track(2012, "верёвка", "2:07", R.raw.album11_track12, 11),
+                    Track(2013, "я без ума от тебя", "1:59", R.raw.album11_track13, 11),
+                    Track(2014, "север", "2:07", R.raw.album11_track14, 11),
+                    Track(2015, "вата", "1:59", R.raw.album11_track15, 11),
+                    Track(2016, "напоросайтах", "2:07", R.raw.album11_track16, 11),
+                    Track(2017, "по барабану", "2:07", R.raw.album11_track17, 11),
+                    Track(2018, "велосипед", "1:59", R.raw.album11_track18, 11),
+                    Track(2019, "малолетки", "2:07", R.raw.album11_track19, 11),
+                    Track(2020, "урод", "1:59", R.raw.album11_track20, 11),
+                    Track(2021, "сигареты", "2:07", R.raw.album11_track21, 11),
+                    Track(2022, "неудобно", "1:59", R.raw.album11_track22, 11),
+                    Track(2023, "тетрадь", "2:37", R.raw.album11_track23, 11),
+                    Track(2024, "ванна, красный пол", "2:53", R.raw.album11_track24, 11),
+                    Track(2025, "все мои поступки", "3:28", R.raw.album11_track25, 11),
+                    Track(2026, "прыгай, дура!", "1:59", R.raw.album11_track26, 11)
+                )
+            ),
+
+            Album(
                 10, "Хайперпоп", "2020 - 2022", R.drawable.album_10, listOf(
                     Track(901, "Цветофобия", "1:49", R.raw.album10_track1, 10),
                     Track(902, "Паранойя", "1:57", R.raw.album10_track2, 10),
