@@ -3,7 +3,7 @@
 
 **[🇷🇺 Русский](#русский) | [🇬🇧 English](#english)**
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40dangersharkTT-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dangersharkTT)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram)](https://t.me/dangersharkTT)
 
 </div>
 
@@ -13,17 +13,15 @@
 
 <div align="center">
 
-![LifonMUSIC Logo](images/Logo.png)
+# 🎵 LifonMUSIC
 
 ### Фан-приложение для слушателей CUPSIZE
 
-*by videlsvet, dangershark & qyrex*
+*by videlsvet and dangershark*
 
 ![LifonMUSIC Banner](images/base.jpg)
 
 </div>
-
-<br>
 
 ## Что такое LifonMUSIC?
 
@@ -31,20 +29,18 @@
 
 Приложение создано с любовью к сообществу группы: здесь собраны полная дискография, тексты песен и возможность создать свой плейлист из избранных треков.
 
-> ⚠️ **Важно:** LifonMUSIC — независимый проект, не связанный с официальными представителями CUPSIZE. Все используемые материалы принадлежат группе CUPSIZE.
+> ⚠️ LifonMUSIC — это независимый проект, не связанный с официальными представителями CUPSIZE. Все используемые материалы принадлежат группе CUPSIZE.
 
 ---
 
 ## ✨ Возможности
 
-| | Функция | Описание |
-|---|---|---|
-| 🎧 | **Полная дискография** | Все альбомы и треки CUPSIZE — бесплатно, без ограничений |
-| 📝 | **Тексты песен** | Слова к каждому треку, отображаются во время прослушивания |
-| ❤️ | **Избранное** | Сохраняй любимые треки в личный список |
-| 🔍 | **Поиск по альбомам** | Быстро найди нужное |
-| 👤 | **Система аккаунтов** | Регистрация, вход, итоги года |
-| 🏝️ | **Dynamic Island** | Информация о воспроизведении на поддерживаемых прошивках |
+- 🎧 **Полная дискография CUPSIZE** — все альбомы, все треки, бесплатно
+- 📝 **Тексты песен** — слова к каждому треку, отображаются во время прослушивания
+- ❤️ **Избранное** — сохраняй любимые треки
+- 🔍 **Поиск по альбомам** — быстро найди нужное
+- 👤 **Система аккаунтов** — зарегистрируйся и войди, для просмотра любимых песен и итогов года
+- 🏝️ **Поддержка Dynamic Island** — информация о воспроизведении на поддерживаемых прошивках
 
 ---
 
@@ -53,13 +49,13 @@
 LifonMUSIC поддерживает нативный Dynamic Island / анимированный остров на следующих прошивках:
 
 | Бренд | Прошивка |
-|:---|:---|
-| Tecno | `HOS` |
-| Xiaomi / Redmi / Poco | `HyperOS 3` |
-| OnePlus | `OxygenOS` · `ColorOS` |
-| Oppo | `ColorOS` |
-| Vivo | `OriginOS` |
-| Infinix | `XOS` |
+|---|---|
+| Tecno | HOS |
+| Xiaomi / Redmi / Poco | HyperOS 3 |
+| OnePlus | OxygenOS, ColorOS |
+| Oppo | ColorOS |
+| Vivo | OriginOS |
+| Infinix | XOS |
 
 ---
 
@@ -85,11 +81,7 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 ## 📲 Скачать
 
-<div align="center">
-
-[![Download](https://img.shields.io/badge/⬇%20Скачать%20LifonMUSIC-E05C3A?style=for-the-badge)](../../releases/latest)
-
-</div>
+[**Releases**](../../releases/latest)
 
 ---
 
@@ -97,19 +89,18 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 Следи за обновлениями, новостями и новыми треками в нашем Telegram-канале:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40dangersharkTT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dangersharkTT)
+[![Telegram](https://img.shields.io/badge/Telegram-@dangersharkTT-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/dangersharkTT)
 
 ---
 
 ## 👥 Авторы
 
-Сделано с ❤️ командой **videlsvet**, **dangershark** и **qyrex**
+Сделано с ❤️ командой **videlsvet** и **dangershark**
 
-| Роль | Автор | Telegram |
-|:---|:---|:---|
-| 💡 Автор идеи | dangershark | [@dangeershark](https://t.me/dangershark) |
-| 💻 Разработчик приложения | videlsvet | [@videlsvet](https://t.me/videlsvet) |
-| 🌐 Разработчик сайта | qyrex | [@qyrex](https://t.me/qyrex) |
+| Роль | Автор | TikTok |
+|---|---|---|
+| 💻 Разработчик | videlsvet | [@wave66181](https://www.tiktok.com/@wave66181?_r=1&_t=ZS-94DvxyuzLYi) |
+| 💡 Автор идеи | dangershark | [@dangeershark_t.t](https://www.tiktok.com/@dangeershark_t.t?_r=1&_t=ZS-94RK31XtDvQ) |
 
 ---
 ---
@@ -118,17 +109,15 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 <div align="center">
 
-![LifonMUSIC Logo](images/Logo.png)
+# 🎵 LifonMUSIC
 
 ### The fan app for CUPSIZE listeners
 
-*by videlsvet, dangershark & qyrex*
+*by videlsvet and dangershark*
 
 ![LifonMUSIC Banner](images/base.jpg)
 
 </div>
-
-<br>
 
 ## What is LifonMUSIC?
 
@@ -136,20 +125,18 @@ LifonMUSIC поддерживает нативный Dynamic Island / аними
 
 It's built with love for the band's community, bringing together the complete discography, synced lyrics, and a personal favorites playlist — all in one place.
 
-> ⚠️ **Note:** LifonMUSIC is an independent project not affiliated with the official representatives of CUPSIZE. All materials belong to the CUPSIZE group.
+> ⚠️ LifonMUSIC is an independent project not affiliated with the official representatives of CUPSIZE. All materials belong to the CUPSIZE group.
 
 ---
 
 ## ✨ Features
 
-| | Feature | Description |
-|---|---|---|
-| 🎧 | **Full discography** | Every CUPSIZE album and track — free, no limits |
-| 📝 | **Lyrics** | Text for every song, displayed while you listen |
-| ❤️ | **Favorites** | Save the tracks you love |
-| 🔍 | **Album search** | Quickly find what you're looking for |
-| 👤 | **Account system** | Register, log in, year-end results |
-| 🏝️ | **Dynamic Island** | Real-time playback info on supported firmware |
+- 🎧 **Full CUPSIZE discography** — every album, every track, all free
+- 📝 **Lyrics** — text for every song, displayed while you listen
+- ❤️ **Favorites** — save the tracks you love
+- 🔍 **Album search** — quickly find what you're looking for
+- 👤 **Account system** — register and log in to view your favorite songs and year-end results
+- 🏝️ **Dynamic Island support** — real-time playback info on supported firmware
 
 ---
 
@@ -158,13 +145,13 @@ It's built with love for the band's community, bringing together the complete di
 LifonMUSIC supports a native-style Dynamic Island / notification pill on the following Android firmware:
 
 | Brand | Firmware |
-|:---|:---|
-| Tecno | `HOS` |
-| Xiaomi / Redmi / Poco | `HyperOS 3` |
-| OnePlus | `OxygenOS` · `ColorOS` |
-| Oppo | `ColorOS` |
-| Vivo | `OriginOS` |
-| Infinix | `XOS` |
+|---|---|
+| Tecno | HOS |
+| Xiaomi / Redmi / Poco | HyperOS 3 |
+| OnePlus | OxygenOS, ColorOS |
+| Oppo | ColorOS |
+| Vivo | OriginOS |
+| Infinix | XOS |
 
 ---
 
@@ -190,11 +177,7 @@ LifonMUSIC supports a native-style Dynamic Island / notification pill on the fol
 
 ## 📲 Download
 
-<div align="center">
-
-[![Download](https://img.shields.io/badge/⬇%20Download%20LifonMUSIC-E05C3A?style=for-the-badge)](../../releases/latest)
-
-</div>
+[**Releases**](../../releases/latest)
 
 ---
 
@@ -202,16 +185,16 @@ LifonMUSIC supports a native-style Dynamic Island / notification pill on the fol
 
 Follow updates, news, and new releases on our Telegram channel:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40dangersharkTT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dangersharkTT)
+[![Telegram](https://img.shields.io/badge/Telegram-@dangersharkTT-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/dangersharkTT)
 
 ---
 
 ## 👥 Authors
 
-Made with ❤️ by **videlsvet**, **dangershark** and **qyrex**
+Made with ❤️ by **videlsvet** and **dangershark**
 
-| Роль | Автор | Telegram |
-|:---|:---|:---|
-| 💡 Idea author | dangershark | [@dangeershark](https://t.me/dangershark) |
-| 💻 App Developer | videlsvet | [@videlsvet](https://t.me/videlsvet) |
-| 🌐 Site Developer | qyrex | [@qyrex](https://t.me/qyrex) |
+
+| Role | Author | TikTok |
+|---|---|---|
+| 💻 Developer | videlsvet | [@wave66181](https://www.tiktok.com/@wave66181?_r=1&_t=ZS-94DvxyuzLYi) |
+| 💡 Idea author | dangershark | [@dangeershark_t.t](https://www.tiktok.com/@dangeershark_t.t?_r=1&_t=ZS-94RK31XtDvQ) |
