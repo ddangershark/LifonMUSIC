@@ -1,10 +1,10 @@
 <div align="center">
 
-![LifonMUSIC](https://github.com/ddangershark/LifonMUSIC/blob/main/images/1.png)
+
 
 # LifonMUSIC 🎧
 
-
+![LifonMUSIC](https://github.com/ddangershark/LifonMUSIC/blob/main/images/1.png)
 
 [🇷🇺 Русский](#русский) • [🇺🇸 English](#english)
 
