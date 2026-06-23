@@ -6,7 +6,7 @@
 
 
 
-[🇷🇺 Русский](#LifonMUSIC🇷🇺) • [🇺🇸 English](#LifonMUSIC🇺🇸)
+[🇷🇺 Русский](#RU-LifonMUSIC) • [🇺🇸 English](#EN-LifonMUSIC)
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-# LifonMUSIC🇷🇺
+# RU-LifonMUSIC
 
 
 
@@ -127,7 +127,7 @@ git clone https://github.com/ddangershark/LifonMUSIC.git
 
 
 
-# LifonMUSIC🇺🇸
+# EN-LifonMUSIC
 
 
 
