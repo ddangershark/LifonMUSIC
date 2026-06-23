@@ -1,6 +1,6 @@
 <div align="center">
 
-![Иллюстрация к проекту](https://github.com/ddangershark/LifonMUSIC/blob/main/images/1.png)
+![LifonMUSIC](https://github.com/ddangershark/LifonMUSIC/blob/main/images/1.png)
 
 # LifonMUSIC 🎧
 
