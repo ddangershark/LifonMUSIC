@@ -4,7 +4,7 @@
 
 # LifonMUSIC 🎧
 
-![LifonMUSIC](https://github.com/ddangershark/LifonMUSIC/blob/main/images/1.png)
+
 
 [🇷🇺 Русский](#русский) • [🇺🇸 English](#english)
 
@@ -17,7 +17,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dangersharktt)
 [![Release](https://img.shields.io/badge/Release-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/ddangershark/LifonMUSIC/releases)
 
-
+![LifonMUSIC](https://github.com/ddangershark/LifonMUSIC/blob/main/images/1.png)
 
 </div>
 
