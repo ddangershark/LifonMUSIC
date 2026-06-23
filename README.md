@@ -1,67 +1,223 @@
+<div align="center">
+
+
+
 # LifonMUSIC 🎧
 
-[![Telegram](https://img.shields.io/badge/Join-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dangersharktt)
-[![Latest Release](https://img.shields.io/badge/Latest-Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddangershark/LifonMUSIC/releases)
 
-**LifonMUSIC** — это бесплатный музыкальный плеер и фан-проект, созданный специально для преданных слушателей и ценителей творчества группы **CUPSIZE**. Приложение разработано для устройств на базе Android и предоставляет удобный доступ исключительно к дискографии группы.
 
-🌐 **Официальный сайт проекта:** [lifonmusic.lol](https://lifonmusic.lol)  
-📢 **Наш Telegram-канал:** [@dangersharktt](https://t.me)
+[🇷🇺 Русский](#русский) • [🇺🇸 English](#english)
 
----
 
-## ✨ Особенности проекта
 
-* **Эксклюзивный контент:** только треки, альбомы и релизы группы CUPSIZE.
-* **Современный интерфейс:** минималистичный и интуитивно понятный дизайн для комфортного прослушивания.
-* **Абсолютно бесплатно:** фан-проект, созданный сообществом и для сообщества, без рекламы и платных подписок.
+<br>
 
----
 
-## 🛠️ Стек технологий
 
-Приложение построено на современных инструментах разработки под Android:
-* **Kotlin (69.0%)** — основной язык разработки и бизнес-логики.
-* **TypeScript / JavaScript (30.2%)** — используется в веб-компонентах приложения или сопутствующих сервисах.
-* **Gradle (Kotlin DSL)** — современная сборка проекта и управление зависимостями.
+[![Telegram](https://img.shields.io/badge/Join-Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/dangersharktt)
+
+[![Latest Release](https://img.shields.io/badge/Latest-Release-2ea44f?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ddangershark/LifonMUSIC/releases)
+
+
+
+</div>
+
+
 
 ---
 
-## 🚀 Как установить
 
-Вы можете скачать актуальную версию приложения прямо из GitHub:
-1. Перейдите в раздел **[Releases](https://github.com)**.
-2. Скачайте последний доступный `.apk` файл.
-3. Разрешите на своем Android-устройстве установку из неизвестных источников и установите приложение.
+
+# Русский
+
+
+
+**LifonMUSIC** — бесплатный музыкальный плеер и фан-проект, созданный специально для преданных слушателей и ценителей творчества группы **CUPSIZE**. Приложение разработано для устройств Android и предоставляет удобный доступ исключительно к дискографии группы.
+
+
+
+🌐 **Официальный сайт:** https://lifonmusic.lol
+
+📢 **Telegram-канал:** https://t.me/dangersharktt
+
+
+
+## ✨ Особенности
+
+
+
+* 🎵 Только музыка группы **CUPSIZE**
+
+* 🎨 Современный и удобный интерфейс
+
+* 💸 Полностью бесплатно
+
+* 🚫 Без рекламы и подписок
+
+
+
+## 🛠️ Технологии
+
+
+
+* Kotlin
+
+* TypeScript / JavaScript
+
+* Gradle (Kotlin DSL)
+
+
+
+## 🚀 Установка
+
+
+
+1. Откройте раздел Releases.
+
+2. Скачайте последнюю версию `.apk`.
+
+3. Установите приложение на Android-устройство.
+
+
+
+## 💻 Сборка
+
+
+
+```bash
+
+git clone https://github.com/ddangershark/LifonMUSIC.git
+
+```
+
+
+
+Затем откройте проект в Android Studio и выполните:
+
+
+
+```bash
+
+./gradlew assembleDebug
+
+```
+
+
+
+## 👥 Контакты
+
+
+
+* Создатель проекта — @dangershark
+
+* Разработчик приложения — @videlsvet
+
+* Разработчик сайта — @qyrex
+
+
+
+## 📄 Disclaimer
+
+
+
+Данное приложение является неофициальным некоммерческим фан-проектом. Все права на музыкальные композиции, торговые марки и визуальные материалы принадлежат группе **CUPSIZE** и их правообладателям.
+
+
 
 ---
 
-## 💻 Сборка из исходников
 
-Если вы хотите собрать проект самостоятельно, выполните следующие шаги:
 
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com
-   ```
-2. Откройте проект в **Android Studio**.
-3. Дождитесь окончания синхронизации Gradle-проекта.
-4. Запустите сборку с помощью Gradle Wrapper:
-   * На Linux/macOS: `./gradlew assembleDebug`
-   * На Windows: `gradlew.bat assembleDebug`
+# English
 
----
 
-## 👥 Обратная связь и контакты
 
-Если у вас возникли вопросы, предложения или баги, вы можете связаться с командой проекта в Telegram:
+**LifonMUSIC** is a free music player and fan-made project created for dedicated fans and listeners of **CUPSIZE**. The Android application provides convenient access exclusively to the band's discography.
 
-* **Создатель проекта:** [@dangershark](https://t.me)
-* **Разработчик приложения:** [@videlsvet](https://t.me)
-* **Разработчик сайта:** [@qyrex](https://t.me)
 
----
 
-## 📄 Отказ от ответственности (Disclaimer)
+🌐 **Official Website:** https://lifonmusic.lol
 
-Данное приложение является **неофициальным некоммерческим фан-проектом**. Все права на музыкальные композиции, торговые марки и визуальные материалы принадлежат исключительно группе **CUPSIZE** и их правообладателям. Разработчик не извлекает коммерческую выгоду из данного приложения.
+📢 **Telegram Channel:** https://t.me/dangersharktt
+
+
+
+## ✨ Features
+
+
+
+* 🎵 Exclusive access to **CUPSIZE** music
+
+* 🎨 Modern and user-friendly interface
+
+* 💸 Completely free to use
+
+* 🚫 No ads or subscriptions
+
+
+
+## 🛠️ Tech Stack
+
+
+
+* Kotlin
+
+* TypeScript / JavaScript
+
+* Gradle (Kotlin DSL)
+
+
+
+## 🚀 Installation
+
+
+
+1. Open the Releases section.
+
+2. Download the latest `.apk` file.
+
+3. Install the application on your Android device.
+
+
+
+## 💻 Building from Source
+
+
+
+```bash
+
+git clone https://github.com/ddangershark/LifonMUSIC.git
+
+```
+
+
+
+Open the project in Android Studio and run:
+
+
+
+```bash
+
+./gradlew assembleDebug
+
+```
+
+
+
+## 👥 Contacts
+
+
+
+* Project Creator — @dangershark
+
+* App Developer — @videlsvet
+
+* Website Developer — @qyrex
+
+
+
+## 📄 Disclaimer
+
+
+
+This application is an unofficial non-commercial fan project. All rights to music, trademarks, and visual assets belong to **CUPSIZE** and their respective copyright holders.
