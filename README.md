@@ -14,10 +14,8 @@
 
 
 
-[![Telegram](https://img.shields.io/badge/Join-Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/dangersharktt)
-
-
-[![Latest Release](https://img.shields.io/badge/Latest-Release-2ea44f?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ddangershark/LifonMUSIC/releases)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dangersharktt)
+[![Release](https://img.shields.io/badge/Release-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/ddangershark/LifonMUSIC/releases)
 
 
 
