@@ -1,0 +1,41 @@
+# Build outputs
+build/
+app/build/
+*.apk
+*.aab
+
+# Gradle
+.gradle/
+local.properties
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Kotlin
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Java crash logs
+hs_err_pid*.log
+
+# Node.js (backend)
+app/backend/node_modules/
+app/backend/dist/
+app/backend/data/
+app/backend/.wrangler/
+
+# Env files
+app/backend/.env
+
+# Keystore (keep secret)
+app/keystore
+app/key
