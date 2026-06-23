@@ -27,7 +27,7 @@
 
 
 
-# Русский
+# LifonMUSIC | RU 
 
 
 
@@ -127,7 +127,7 @@ git clone https://github.com/ddangershark/LifonMUSIC.git
 
 
 
-# English
+# LifonMUSIC | EN
 
 
 
