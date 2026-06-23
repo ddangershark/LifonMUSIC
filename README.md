@@ -1,8 +1,7 @@
 # LifonMUSIC 🎧
 
-[![Stars](https://badgen.net)](https://github.com)
-[![Releases](https://badgen.net)](https://github.com)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Join-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dangersharktt)
+[![Latest Release](https://img.shields.io/badge/Latest-Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddangershark/LifonMUSIC/releases)
 
 **LifonMUSIC** — это бесплатный музыкальный плеер и фан-проект, созданный специально для преданных слушателей и ценителей творчества группы **CUPSIZE**. Приложение разработано для устройств на базе Android и предоставляет удобный доступ исключительно к дискографии группы.
 
