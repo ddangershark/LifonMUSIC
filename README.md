@@ -2,7 +2,7 @@
 
 [![Stars](https://badgen.net)](https://github.com)
 [![Releases](https://badgen.net)](https://github.com)
-![Telegram](https://badge.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 **LifonMUSIC** — это бесплатный музыкальный плеер и фан-проект, созданный специально для преданных слушателей и ценителей творчества группы **CUPSIZE**. Приложение разработано для устройств на базе Android и предоставляет удобный доступ исключительно к дискографии группы.
 
