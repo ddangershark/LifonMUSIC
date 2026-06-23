@@ -6,7 +6,7 @@
 
 
 
-[🇷🇺 Русский](# LifonMUSIC | RU) • [🇺🇸 English](# LifonMUSIC | EN)
+[🇷🇺 Русский](#LifonMUSIC | RU) • [🇺🇸 English](#LifonMUSIC | EN)
 
 
 
